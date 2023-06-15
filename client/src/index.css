@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Martel Sans', sans-serif !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-link{
+  color:black !important;
+  font-size: 110% !important;
+}
+.navbar-brand{
+  color:black !important;
+  font-family:cursive !important;
+  font-weight: bolder !important;
+}
+h1{
+  font-size: 30px !important;
+}
+h3{
+  font-size: 18px !important;
+  font-weight: bold !important;
+}
+.flex-container{
+  display:flex !important;
+}
+.mt-1{
+  font-size: 15px !important;
+  font-weight: 600 !important;
+}
+.btn{
+    background-color: red !important;
+    color:white !important;
+    text-align: center !important;
+    font-size: 13.2px !important;
+}
+
+select{
+    box-shadow: none !important;
+    border-color: black !important;
+}
+
+.fa-plus{
+    color:green;
+    margin: Spx;
+}
+.fa-minus{
+    color:red !important;
+    margin: Spx;
+}
+.fa-trash{
+    color:red;
+}
+input{
+    margin: 10px !important;
+    box-shadow: none !important;
+}
