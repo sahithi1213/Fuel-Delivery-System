@@ -1,0 +1,25 @@
+{
+  "name": "mern-petrol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7",
+    "stripe": "^10.17.0",
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "8.15.0"
+  }
+}
